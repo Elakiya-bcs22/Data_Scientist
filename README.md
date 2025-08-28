@@ -14,7 +14,7 @@ Supervised learning uses labeled data to train models for predictions. It is div
 - **Random Forest** – [Random Forest Repo](https://github.com/Elakiya-bcs22/Insta_Sentiments-RF-)  
 - **SVM (Support Vector Machines)** – [SVM Repo](https://github.com/Elakiya-bcs22/Breast_Cancer_Pred-SVM-)  
 - **KNN (K-Nearest Neighbors)** – [KNN Repo](https://github.com/Elakiya-bcs22/Music_Mood_Classifier-KNN-)  
-- **Logistic Regression** – [Logistic Regression Repo]({LINK})  
+- **Logistic Regression** – [Logistic Regression Repo](https://github.com/Elakiya-bcs22/Promotion-Data)  
 - **Naive Bayes** – [Naive Bayes Repo](https://github.com/Elakiya-bcs22/Movie_Review_Classifier-NB-)  
 - **Gradient Boosting** – [Gradient Boosting Repo](https://github.com/Elakiya-bcs22/Mobile-data-usage-predictor-GB-)
 
